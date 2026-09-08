@@ -2,8 +2,10 @@
 
 Full-stack e-commerce application with JWT-based customer/admin roles, a product catalog with search and filtering, a shopping cart, checkout, and full order lifecycle management.
 
-**Live Demo:** _add after deployment_
-**Backend API Docs:** _add after deployment_ (`/docs` — interactive Swagger UI)
+**Live Demo:** https://ecommerce-app-anbu21.vercel.app
+**Backend API Docs:** https://ecommerce-backend-9koy.onrender.com/docs (interactive Swagger UI)
+
+_Note: the backend is on Render's free tier, which sleeps after 15 minutes of inactivity — the first request after a while may take ~30s to wake up._
 
 **Demo accounts:**
 - Admin: `admin@demo.com` / `Admin123!`
